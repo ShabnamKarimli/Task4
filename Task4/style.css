@@ -1,0 +1,42 @@
+.divleft{
+    width: 41%;
+    height: 603px;
+    display: inline-block;
+}
+.divleft img{
+    width: 100%;
+    height: 603px;
+    object-fit:cover;
+}
+
+.divright{
+    width: 50%;
+    height: 603px;
+    display: inline-block;
+    vertical-align:top ;
+    margin-left: 103px;
+}
+
+.div1 {
+    width: 10%;
+    height: 61px;
+    display: inline-block;
+    border : 3px solid rgb(42, 126, 235);
+    vertical-align: top;
+    margin-top: 2rem;
+}
+.div2 {
+    height: 121px;
+    width: 30%;
+    display: inline-block;
+    margin: 2rem 1rem ;
+}
+.div1 i{
+    font-size: 2rem;
+    padding: 16px;
+    color: rgb(42, 126, 235);blue;
+}
+.div2 p{
+    color: #b6b6b6;
+}
+
